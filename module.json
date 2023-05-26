@@ -2,7 +2,7 @@
 	"id": "locale-en-au",
 	"title": "En-AU Core Translation/Locale",
 	"description": "Optimise FoundryVTT core dialogues with a less American flavour.",
-	"version": "0.31",
+	"version": "1.0",
 	"compatibility": {
 		"minimum": "10",
 		"verified": "11"

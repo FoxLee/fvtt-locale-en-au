@@ -1,0 +1,29 @@
+{
+	"id": "locale-en-au",
+	"title": "En-AU Core Translation/Locale",
+	"description": "Optimise FoundryVTT core dialogues with a less American flavour.",
+	"version": "0.31",
+	"compatibility": {
+		"minimum": "10",
+		"verified": "11"
+	},
+	"coreTranslation": true,
+	"authors": [
+		{
+			"name": "Fox Lee",
+			"url": "https://www.invincible.ink",
+			"discord": "Fox#3590",
+			"email": "fox@invincible.ink"
+		}
+	],
+	"scripts": [],
+	"styles": [],
+	"packs": [],
+	"languages": [
+		{
+			"lang": "en-AU",
+			"name": "Australian English",
+			"path": "en-au.json"
+		}
+	]    
+}

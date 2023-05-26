@@ -1,5 +1,5 @@
 # Australian English localisation for Foundry VTT core
-Optimise FoundryVTT core dialogues with a less American flavour. Never settle for changing token "color" again.
+Optimise FoundryVTT core dialogues with a less American flavour. Listen, I don't care if I'm literally the only person in the world bothered by having to set token "color", I'm gunna do what makes me happy.
 * **Author**: [FoxLee](https://github.com/FoxLee)
 * **Contributors**: Of course, this is adapted from the original "en" Foundry locale file.
 * **Foundry VTT Compatibility**: v10+
